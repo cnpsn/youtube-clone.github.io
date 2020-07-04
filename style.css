@@ -1,0 +1,82 @@
+#search{
+    height: 30px;
+    background-color: #191919;
+    border-color: #000;
+    width:600px;
+    padding: 10px;
+    color: #fff;
+    font-size: medium;
+    border: none;
+    margin-left: 25%;
+}
+.Navbar{
+    height: 80px;
+    background-color: #303030;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+.searchButton{
+    height: 30px;
+    width: 50px;
+    background-color:#484848;
+    border-color: #484848;
+    border-radius: 2px;
+    color: white;
+    border: none;
+
+}
+#alignJustify{
+    background-color: #303030;
+    color:white;
+    height: 30px;
+    border: none;
+
+}
+#youtubeIcon{
+    color: rgb(255, 0, 0);
+}
+#youtubeClick{
+    background-color: #303030;
+    border:none;
+    color: white;
+    margin-left: 13px;
+    font-size: 22px;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+#video{
+    border:none;
+    background-color: #303030;
+    color:white;
+    margin-left: 15%;
+    
+}
+#bildirim{
+    border:none;
+    background-color: #303030;
+    color:white;
+    margin-left: 10px;
+   
+}
+#uygulamalar{
+    border:none;
+    background-color: #303030;
+    color:white;
+    margin-left: 10px;
+}
+#profilPhoto{
+    border: none;
+    background-color: #303030;
+    margin-left: 10px;
+}
+.inputt{
+    width: 100%;
+    outline-offset: 0px;
+    outline-color:none;
+    outline-style: none;
+    outline-width: none;
+    border: none;
+    border-bottom: solid rgb(160,160,160);
+    border-width: 0.4px;
+    background-color: rgb(23, 23, 23);
+    color: #fff;
+}
